@@ -1,18 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="24" height="24" viewBox="0 0 204.000000 192.000000"
- preserveAspectRatio="xMidYMid meet">
-
-<g transform="translate(0.000000,192.000000) scale(0.100000,-0.100000)"
-fill="#1E90FF" stroke="none">
-<path d="M785 1540 c-12 -19 -32 -55 -45 -80 -12 -25 -30 -56 -40 -70 -9 -14
--35 -59 -57 -101 l-41 -77 65 -113 c35 -63 75 -134 88 -159 13 -25 30 -53 37
--64 15 -20 7 -32 167 251 l52 93 199 2 198 3 -95 170 c-53 94 -97 172 -99 174
--2 2 -95 5 -205 5 l-202 1 -22 -35z"/>
-<path d="M1154 918 c-31 -56 -76 -137 -99 -178 l-43 -75 -199 -5 -200 -5 42
--75 c23 -41 67 -120 97 -175 l56 -100 203 0 203 0 23 40 c13 22 59 103 103
-179 79 139 79 139 63 170 -31 60 -174 311 -183 319 -4 5 -34 -38 -66 -95z"/>
-</g>
-</svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="523.9px" height="813px" viewBox="0,0,164.95313,256"><g fill="#334af0" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="translate(-0.00708,0) scale(0.31488,0.31488)"><path d="M391.9,0l-130.7,232.3h-261.2l130.6,-232.3h261.3" opacity="0.45"></path><path d="M261.2,232.3h261.3l-130.6,-232.3h-261.3z" opacity="0.6"></path><path d="M130.6,464.5l130.6,-232.2l-130.6,-232.3l-130.6,232.3z" opacity="0.8"></path><path d="M131.9,813l130.7,-232.3h261.3l-130.7,232.3h-261.3" opacity="0.45"></path><path d="M262.6,580.7h-261.3l130.6,232.3h261.3z" opacity="0.6"></path><path d="M393.2,348.5l-130.6,232.2l130.6,232.3l130.7,-232.3z" opacity="0.8"></path></g></g></svg>

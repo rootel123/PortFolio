@@ -95,7 +95,7 @@ const Skill = () => {
           aria-label="Soildity"
         >
           <img
-            src="./images/icons/Solidity.svg"
+            src="./images/icons/solidity.svg"
             alt=""
             loading="lazy"
             className="w-16 mb-1"
