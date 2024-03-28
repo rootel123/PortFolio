@@ -18,7 +18,7 @@ const projects = [
   },
   {
     title: "Chat-GPT",
-    image: "./images/recipeApp-mockup",
+    image: "./images/gpt",
     description: "api를 활용하여 간단한 Chat-GPT를 만들어 봤습니다.",
     tools: ["Javascript", "React", "api"],
     github: "https://github.com/rootel123/chat-gpt",
